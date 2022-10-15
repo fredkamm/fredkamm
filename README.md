@@ -7,7 +7,9 @@
   <a href="https://www.linkedin.com/in/fred-kamm-370070244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
 
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=fredkamm&style=flat-square&color=blue" alt=""/>
     <h1>
         Hey
