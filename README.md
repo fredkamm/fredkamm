@@ -9,6 +9,9 @@
   <a href="mailto:fred.kamm95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://fredkamm.github.io/portfolio_upgrade/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div id="views" align="center">
