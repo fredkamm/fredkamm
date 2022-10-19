@@ -30,6 +30,7 @@
 - 🔭 Currently I am searching for a job as a software developer.
 
 - 🌱 Currently I am polishing my javascript and react skills by making passion projects that will be displayed on my personal portfolio.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fredkamm.github.io/portfolio_upgrade/)
 
 - ⚡ In my free time, I am going for hikes with my dogs and working on improving myself everyday.
 
