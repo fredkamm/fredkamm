@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=fredkamm&style=flat-square&color=blue" alt=""/>
   </div>
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+My+name+is+Fred+Kamm" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Fred+Kamm" alt="Typing SVG" /></a>
   </div>
 </div>
 
