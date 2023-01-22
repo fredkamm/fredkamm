@@ -1,9 +1,9 @@
 <div id="views" align="center">
   <div>
-    <img src="https://komarev.com/ghpvc/?username=fredkamm&style=flat-square&color=blue" alt=""/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Fred+Kamm" alt="Typing SVG" /></a>
   </div>
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Fred+Kamm" alt="Typing SVG" /></a>
+    <img src="https://komarev.com/ghpvc/?username=fredkamm&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
 
@@ -26,12 +26,12 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 Currently I am searching for a job as a software developer.
+- 🔭 Currently searching for a job as a software developer.
 
-- 🌱 Currently I am polishing my javascript and react skills by making passion projects that will be displayed on my personal portfolio.
+- 🌱 While i search for my future job, I am polishing my javascript and react skills by making passion projects that will be displayed on my personal portfolio.
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fredkamm.github.io/portfolio_upgrade/)
 
-- ⚡ I enjoy skiing in the winter, golfing in the summer, and hiking with my dogs year-round.
+- ⚡ In my free time, I enjoy skiing in the winter, golfing in the summer, and hiking with my dogs year-round.
 
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/Fredkamm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kamm-370070244/)
