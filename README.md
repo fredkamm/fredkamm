@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
-</div>
-
 <div id="badges" align="center">
 
   <a href="https://www.linkedin.com/in/fred-kamm-370070244/">
@@ -24,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
