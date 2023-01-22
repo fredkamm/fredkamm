@@ -1,15 +1,3 @@
-<div id="badges" align="center">
-
-  <a href="https://www.linkedin.com/in/fred-kamm-370070244/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="mailto:fred.kamm95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://fredkamm.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div id="views" align="center">
   <div>
     <img src="https://komarev.com/ghpvc/?username=fredkamm&style=flat-square&color=blue" alt=""/>
@@ -17,6 +5,17 @@
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Fred+Kamm" alt="Typing SVG" /></a>
   </div>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/fred-kamm-370070244/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:fred.kamm95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://fredkamm.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 <div align="center">
