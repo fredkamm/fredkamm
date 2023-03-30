@@ -18,11 +18,9 @@
   </a>
 </div>
 
-<div align="center">
-  ![Snake animation](https://github.com/fredkamm/fredkamm/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/fredkamm/fredkamm/blob/output/github-contribution-grid-snake.svg)
 
----
+  ---
 
 ### 👨‍💻 About Me :
 
