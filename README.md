@@ -24,12 +24,12 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 Currently searching for a job as a software developer.
+- 🔭 At this time, I am working for 2U/edX as a Teaching Assistant for the University of Pennsylvania's full-time web developer cohort.
 
 - 🌱 While i search for my future job, I am polishing my javascript and react skills by making passion projects that will be displayed on my personal portfolio.
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fredkamm.netlify.app/)
 
-- ⚡ In my free time, I enjoy skiing in the winter, golfing in the summer, and hiking with my dogs year-round.
+- ⚡ During my free time, I enjoy skiing in the winter, golfing in the summer, and hiking with my dogs year-round.
 
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/Fredkamm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kamm-370070244/)
