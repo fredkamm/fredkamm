@@ -20,7 +20,8 @@
 
   ---
 
-- 📫 How to reach me:
+ ### 📫 How to reach me:
+ 
   [![Linkedin Badge](https://img.shields.io/badge/Fredkamm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kamm-370070244/)
   [![Email Badge](https://img.shields.io/badge/fred.kamm95@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fred.kamm95@gmail.com)
 
