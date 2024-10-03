@@ -20,15 +20,6 @@
 
   ---
 
-### 👨‍💻 About Me :
-
-- 🔭 At this time, I am working for 2U/edX as a Teaching Assistant for the University of Pennsylvania's full-time web developer program.
-
-- 🌱 As I continue to enhance my skills in JavaScript and React, I am building a collection of passion projects that will be showcased on my personal portfolio. Although I am not actively seeking a new job opportunity at the moment, I remain open to exploring exciting possibilities that may arise in the future.
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fredkamm.netlify.app/)
-
-- ⚡ During my free time, I enjoy hitting the slopes on my skis in the winter, practicing my golf swing in the summer, and hiking with my dogs year-round. Being outdoors and spending time with my loyal companions brings me a lot of joy and helps me unwind from my work as a software developer.
-
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/Fredkamm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kamm-370070244/)
   [![Email Badge](https://img.shields.io/badge/fred.kamm95@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fred.kamm95@gmail.com)
