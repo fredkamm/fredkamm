@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a365d&height=180&section=header&text=Fred%20Kamm&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer+%26+IT+Consultant;Building+clean%2C+scalable+web+solutions" alt="Typing SVG" />
-
-<br>
-
-IT consultant and web developer helping businesses build secure, scalable, and high-performance web solutions.  
-Passionate about clean code, modern technologies, and delivering real impact.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer+%26+IT+Consultant" alt="Typing SVG" />
 
 <br><br>
 
