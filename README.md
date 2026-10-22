@@ -82,8 +82,8 @@
     </td>
     <td valign="top">
       <b>AI AGENTS / AUTOMATION</b><br><br>
-      <img alt="Grok Bot" title="Grok Bot" src="https://img.shields.io/badge/✦_Grok_Bot-AI_agent-00B4FF?style=for-the-badge&labelColor=0d1117">
-      <img alt="GitHub Actions workflows" title="GitHub Actions" src="https://img.shields.io/badge/Actions-workflows-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117">
+      <picture><source media="(prefers-color-scheme: light)" srcset="./assets/grok-bot-light.svg"><img alt="Grok Bot" title="Grok Bot" width="48" src="./assets/grok-bot-dark.svg"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture>
     </td>
   </tr>
 </table>
