@@ -1,0 +1,47 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: metrics
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Languages
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: America/New_York
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_ignored: jupyter notebook
+      - name: Isometric calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: America/New_York
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - name: Habits
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: America/New_York
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_facts: no
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_languages_limit: 6
