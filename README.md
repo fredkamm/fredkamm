@@ -79,8 +79,6 @@
 
 <img alt="Most used languages" src="./metrics/languages.svg" width="49%"> <img alt="Coding habits" src="./metrics/habits.svg" width="49%">
 
-<img alt="Isometric commit calendar, last year" src="./metrics/isocalendar.svg" width="100%">
-
 ## 🏙 Contributions
 
 <picture>
