@@ -49,8 +49,7 @@
     </td>
     <td width="33%" valign="top">
       <b>BACKEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=light"><img alt="Node.js, Express, GraphQL, .NET" src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=dark" height="36"></picture><br>
-      <img alt="ASP.NET: familiar" src="https://img.shields.io/badge/ASP.NET-familiar-58A6FF?style=flat-square&labelColor=0b2a4a">
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=light"><img alt="Node.js, Express, GraphQL, ASP.NET" src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=dark" height="36"></picture>
     </td>
     <td width="33%" valign="top">
       <b>CLOUD</b><br><br>
