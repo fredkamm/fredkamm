@@ -15,7 +15,8 @@ jobs:
           python-version: "3.12"
       - name: Draw activity graph
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # read:user token. The built-in GITHUB_TOKEN is public-only.
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         run: python scripts/activity_graph.py
       - name: Commit images

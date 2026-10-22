@@ -3,8 +3,16 @@ Uses only the Python standard library. Output: generated/activity-dark.svg, gene
 import json, os, re, sys, urllib.request, datetime as dt
 
 USER = os.environ.get("USERNAME", "fredkamm")
-TOKEN = os.environ.get("GITHUB_TOKEN")
 DAYS = 31
+
+def token():
+    """User token with read:user. The Actions GITHUB_TOKEN only sees public days."""
+    metrics = os.environ.get("METRICS_TOKEN")
+    if metrics:
+        return metrics
+    if os.environ.get("GITHUB_ACTIONS"):
+        sys.exit("METRICS_TOKEN is required so private contribution counts are included")
+    return os.environ.get("GITHUB_TOKEN")
 
 def fetch_public():
     """Token-free fallback: parse the public contributions calendar HTML."""
@@ -21,20 +29,30 @@ def fetch_public():
     return days[-DAYS:]
 
 def fetch():
-    if not TOKEN:
+    tok = token()
+    if not tok:
         return fetch_public()
     to = dt.datetime.now(dt.timezone.utc)
     frm = to - dt.timedelta(days=DAYS - 1)
     q = """query($u:String!,$f:DateTime!,$t:DateTime!){user(login:$u){contributionsCollection(from:$f,to:$t){
-      contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
+      restrictedContributionsCount
+      contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"""
     body = json.dumps({"query": q, "variables": {"u": USER, "f": frm.isoformat(), "t": to.isoformat()}}).encode()
     req = urllib.request.Request("https://api.github.com/graphql", body,
-                                 {"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"})
+                                 {"Authorization": f"bearer {tok}", "Content-Type": "application/json"})
     data = json.load(urllib.request.urlopen(req))
     if "errors" in data:
         sys.exit(f"GraphQL error: {data['errors']}")
-    weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+    coll = data["data"]["user"]["contributionsCollection"]
+    # restrictedContributionsCount is one number for the whole window: contributions
+    # whose repo details this token cannot open. With read:user and private
+    # contributions enabled, those days are already in contributionCount.
+    # Adding the aggregate again would double-count, and it is not a per-day series.
+    restricted = coll["restrictedContributionsCount"]
+    cal = coll["contributionCalendar"]
+    weeks = cal["weeks"]
     days = [d for w in weeks for d in w["contributionDays"]]
+    print(f"calendar total={cal['totalContributions']} restrictedContributionsCount={restricted}")
     return days[-DAYS:]
 
 THEMES = {

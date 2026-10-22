@@ -13,7 +13,7 @@ Everything happens on github.com in your browser. Allow about 20 minutes.
 6. Choose **Commit directly to the main branch** and click **Commit changes**. Your old README is replaced at this point.
 
 ## 2. Create the METRICS_TOKEN secret
-The Metrics workflow needs a personal access token so it can read your stats.
+The workflows need a personal access token so they can read your stats, including private contribution counts.
 1. Go to **github.com/settings/tokens** and choose **Generate new token → Generate new token (classic)**.
 2. Note: `profile metrics`. Expiration: **No expiration**, or 1 year if you set a reminder to renew it.
 3. Tick only these scopes:
@@ -24,7 +24,9 @@ The Metrics workflow needs a personal access token so it can read your stats.
 5. Go to **github.com/fredkamm/fredkamm → Settings → Secrets and variables → Actions → New repository secret**.
 6. Name: `METRICS_TOKEN`. Secret: paste the token. Click **Add secret**.
 
-(The other three workflows use GitHub's built-in token, so they don't need a secret.)
+`read:user` is the scope that lets the API include private contribution counts in the calendar. The full `repo` scope is not required. That scope can read private repository contents; these graphs only use the anonymous daily counts.
+
+The 3D graph, snake, and activity graph also read with `METRICS_TOKEN`. They still save files with GitHub's built-in token. Turning on "Private contributions" on your profile is required as well, but that setting alone does not change what the built-in token can see.
 
 ## 3. Let the workflows save files
 1. In the repo go to **Settings → Actions → General**.
@@ -55,9 +57,9 @@ click its name on the left → **Run workflow** → **Run workflow**.
   - "Read and write permissions" is still off (step 3).
 
 ## Make the graphs look full (recommended)
-Your public contribution calendar currently shows very few contributions (about 1 in the last 31 days when checked). If much of your work happens in private repos, you can count it (as anonymous squares, nothing private is revealed):
+If much of your work happens in private repos, the daily counts can include it as anonymous squares (nothing private is revealed):
 **github.com/fredkamm → Contribution settings (above the green squares) → turn on "Private contributions"**.
-The 3D graph, activity graph, and snake all read from that calendar.
+The 3D graph, activity graph, and snake then include those days only when they call the API with `METRICS_TOKEN` (`read:user`). After this is set up, run those three workflows once so the images refresh.
 
 ## Things to review
 - **Skills:** the list comes from your old README plus what we discussed. Remove anything you don't want listed.
