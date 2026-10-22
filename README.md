@@ -45,26 +45,26 @@
   <tr>
     <td width="33%" valign="top">
       <b>FRONTEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=light"><img alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=4&theme=light"><img alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=4&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>BACKEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=light"><img alt="Node.js, Express, GraphQL, ASP.NET" src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=4&theme=light"><img alt="Node.js, Express, GraphQL, ASP.NET" src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=4&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>CLOUD</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=6&theme=light"><img alt="Cloudflare (Workers, D1), Netlify, Vercel" src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=4&theme=light"><img alt="Cloudflare (Workers, D1), Netlify, Vercel" src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=4&theme=dark"></picture>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>DATA</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=6&theme=light"><img alt="SQLite / D1, MySQL, MongoDB" src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=6&theme=dark" height="36"></picture><br>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=4&theme=light"><img alt="SQLite / D1, MySQL, MongoDB" src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=4&theme=dark"></picture><br>
       <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F4C8A?style=flat-square">
     </td>
     <td valign="top">
       <b>TOOLS</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=6&theme=light"><img alt="Git, GitHub Actions, VS Code" src="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=4&theme=light"><img alt="Git, GitHub Actions, VS Code" src="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=4&theme=dark"></picture>
     </td>
     <td valign="top">
       <b>AI AGENTS / AUTOMATION</b><br><br>
