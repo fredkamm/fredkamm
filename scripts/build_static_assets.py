@@ -32,7 +32,6 @@ def term(c):
    [("  location",c["p"]),(": ",c["fg"]),('"Pennsylvania"',c["s"]),(",",c["fg"])],
    [("  focus",c["p"]),(": [",c["fg"]),('"client websites", "IT consulting", "edge apps"',c["s"]),("],",c["fg"])],
    [("  stack",c["p"]),(": [",c["fg"]),('"React", "TypeScript", "Node", "Cloudflare"',c["s"]),("],",c["fg"])],
-   [("  nerdingOut",c["p"]),(": ",c["fg"]),('"fantasy sports data"',c["s"]),(",",c["fg"])],
    [("  onGitHub",c["p"]),(": ",c["fg"]),('"since 2022"',c["s"])],[("};",c["fg"])]]
   rows=[];cw=8.6
   for i,l in enumerate(L):

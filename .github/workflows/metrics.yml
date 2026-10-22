@@ -22,15 +22,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_ignored: jupyter notebook
-      - name: Isometric calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_timezone: America/New_York
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
       - name: Habits
         uses: lowlighter/metrics@v3.34
         with:

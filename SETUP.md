@@ -37,7 +37,7 @@ click its name on the left → **Run workflow** → **Run workflow**.
 
 | Workflow | What it makes | Takes |
 |---|---|---|
-| **Metrics** | `metrics/languages.svg`, `metrics/habits.svg`, `metrics/isocalendar.svg` | 3–6 min |
+| **Metrics** | `metrics/languages.svg`, `metrics/habits.svg` | 3–6 min |
 | **3D contribution graph** | `profile-3d-contrib/profile-blue-dark.svg` and `-light.svg` | ~1 min |
 | **Contribution snake** | snake images on a new `output` branch | ~1 min |
 | **Activity graph** | `generated/activity-dark.svg` and `-light.svg` | <1 min |
@@ -57,7 +57,7 @@ click its name on the left → **Run workflow** → **Run workflow**.
 ## Make the graphs look full (recommended)
 Your public contribution calendar currently shows very few contributions (about 1 in the last 31 days when checked). If much of your work happens in private repos, you can count it (as anonymous squares, nothing private is revealed):
 **github.com/fredkamm → Contribution settings (above the green squares) → turn on "Private contributions"**.
-The 3D graph, activity graph, snake and isometric calendar all read from that calendar.
+The 3D graph, activity graph, and snake all read from that calendar.
 
 ## Things to review
 - **Skills:** the list comes from your old README plus what we discussed. Remove anything you don't want listed.

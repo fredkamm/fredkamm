@@ -18,7 +18,7 @@
   <a href="mailto:fred.kamm95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hi-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b2a4a"></a>
   <img alt="Status: open for work" src="https://img.shields.io/badge/Status-Open_for_work-00B4FF?style=for-the-badge&labelColor=0b2a4a">
   <img alt="Location: Pennsylvania" src="https://img.shields.io/badge/📍-Pennsylvania-0F4C8A?style=for-the-badge&labelColor=0b2a4a">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=fredkamm&label=Profile%20views&color=00b4ff&style=for-the-badge">
+  <img alt="Profile views" title="Profile views" src="https://api.visitorbadge.io/api/visitors?path=fredkamm&label=Profile%20views&labelColor=%230b2a4a&countColor=%2300b4ff&style=for-the-badge">
 </p>
 
 </div>
@@ -45,32 +45,45 @@
   <tr>
     <td width="33%" valign="top">
       <b>FRONTEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=light"><img alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"><img alt="HTML" title="HTML" width="48" src="https://skillicons.dev/icons?i=html&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"><img alt="CSS" title="CSS" width="48" src="https://skillicons.dev/icons?i=css&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"><img alt="JavaScript" title="JavaScript" width="48" src="https://skillicons.dev/icons?i=js&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light"><img alt="TypeScript" title="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts&theme=dark"></picture><br>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light"><img alt="React" title="React" width="48" src="https://skillicons.dev/icons?i=react&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light"><img alt="Tailwind" title="Tailwind" width="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>BACKEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=light"><img alt="Node.js, Express, GraphQL, .NET" src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet&perline=6&theme=dark" height="36"></picture><br>
-      <img alt="ASP.NET: familiar" src="https://img.shields.io/badge/ASP.NET-familiar-58A6FF?style=flat-square&labelColor=0b2a4a">
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light"><img alt="Node.js" title="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light"><img alt="Express" title="Express" width="48" src="https://skillicons.dev/icons?i=express&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=graphql&theme=light"><img alt="GraphQL" title="GraphQL" width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet&theme=light"><img alt="ASP.NET" title="ASP.NET" width="48" src="https://skillicons.dev/icons?i=dotnet&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>CLOUD</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=6&theme=light"><img alt="Cloudflare (Workers, D1), Netlify, Vercel" src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=light"><img alt="Cloudflare" title="Cloudflare" width="48" src="https://skillicons.dev/icons?i=cloudflare&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify&theme=light"><img alt="Netlify" title="Netlify" width="48" src="https://skillicons.dev/icons?i=netlify&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light"><img alt="Vercel" title="Vercel" width="48" src="https://skillicons.dev/icons?i=vercel&theme=dark"></picture>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>DATA</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=6&theme=light"><img alt="SQLite / D1, MySQL, MongoDB" src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=6&theme=dark" height="36"></picture><br>
-      <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F4C8A?style=flat-square">
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite&theme=light"><img alt="SQLite" title="SQLite" width="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light"><img alt="MySQL" title="MySQL" width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light"><img alt="MongoDB" title="MongoDB" width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark"></picture>
+      <img alt="REST APIs" title="REST APIs" width="48" height="48" src="https://cdn.simpleicons.org/openapiinitiative/6BA539">
     </td>
     <td valign="top">
       <b>TOOLS</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=6&theme=light"><img alt="Git, GitHub Actions, VS Code" src="https://skillicons.dev/icons?i=git,githubactions,vscode&perline=6&theme=dark" height="36"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img alt="VS Code" title="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"></picture>
     </td>
     <td valign="top">
       <b>AI AGENTS / AUTOMATION</b><br><br>
-      <img alt="Grok Bot" src="https://img.shields.io/badge/✦_Grok_Bot-AI_agent-00B4FF?style=for-the-badge&labelColor=0d1117">
-      <img alt="GitHub Actions workflows" src="https://img.shields.io/badge/Actions-workflows-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117">
+      <img alt="Grok Bot" title="Grok Bot" src="https://img.shields.io/badge/✦_Grok_Bot-AI_agent-00B4FF?style=for-the-badge&labelColor=0d1117">
+      <img alt="GitHub Actions workflows" title="GitHub Actions" src="https://img.shields.io/badge/Actions-workflows-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117">
     </td>
   </tr>
 </table>
@@ -78,8 +91,6 @@
 ## 📊 Metrics
 
 <img alt="Most used languages" src="./metrics/languages.svg" width="49%"> <img alt="Coding habits" src="./metrics/habits.svg" width="49%">
-
-<img alt="Isometric commit calendar, last year" src="./metrics/isocalendar.svg" width="100%">
 
 ## 🏙 Contributions
 
