@@ -45,45 +45,32 @@
   <tr>
     <td width="33%" valign="top">
       <b>FRONTEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"><img alt="HTML" title="HTML" width="48" src="https://skillicons.dev/icons?i=html&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"><img alt="CSS" title="CSS" width="48" src="https://skillicons.dev/icons?i=css&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"><img alt="JavaScript" title="JavaScript" width="48" src="https://skillicons.dev/icons?i=js&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light"><img alt="TypeScript" title="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts&theme=dark"></picture><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light"><img alt="React" title="React" width="48" src="https://skillicons.dev/icons?i=react&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light"><img alt="Tailwind" title="Tailwind" width="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"><img alt="HTML" title="HTML" width="48" src="https://skillicons.dev/icons?i=html&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"><img alt="CSS" title="CSS" width="48" src="https://skillicons.dev/icons?i=css&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"><img alt="JavaScript" title="JavaScript" width="48" src="https://skillicons.dev/icons?i=js&theme=dark"></picture><br>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light"><img alt="TypeScript" title="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light"><img alt="React" title="React" width="48" src="https://skillicons.dev/icons?i=react&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light"><img alt="Tailwind" title="Tailwind" width="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>BACKEND</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light"><img alt="Node.js" title="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light"><img alt="Express" title="Express" width="48" src="https://skillicons.dev/icons?i=express&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=graphql&theme=light"><img alt="GraphQL" title="GraphQL" width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light"><img alt="Node.js" title="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light"><img alt="Express" title="Express" width="48" src="https://skillicons.dev/icons?i=express&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=graphql&theme=light"><img alt="GraphQL" title="GraphQL" width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark"></picture><br>
       <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet&theme=light"><img alt="ASP.NET" title="ASP.NET" width="48" src="https://skillicons.dev/icons?i=dotnet&theme=dark"></picture>
     </td>
     <td width="33%" valign="top">
       <b>CLOUD</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=light"><img alt="Cloudflare" title="Cloudflare" width="48" src="https://skillicons.dev/icons?i=cloudflare&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify&theme=light"><img alt="Netlify" title="Netlify" width="48" src="https://skillicons.dev/icons?i=netlify&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light"><img alt="Vercel" title="Vercel" width="48" src="https://skillicons.dev/icons?i=vercel&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=light"><img alt="Cloudflare" title="Cloudflare" width="48" src="https://skillicons.dev/icons?i=cloudflare&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify&theme=light"><img alt="Netlify" title="Netlify" width="48" src="https://skillicons.dev/icons?i=netlify&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light"><img alt="Vercel" title="Vercel" width="48" src="https://skillicons.dev/icons?i=vercel&theme=dark"></picture>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>DATA</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite&theme=light"><img alt="SQLite" title="SQLite" width="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light"><img alt="MySQL" title="MySQL" width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light"><img alt="MongoDB" title="MongoDB" width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite&theme=light"><img alt="SQLite" title="SQLite" width="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light"><img alt="MySQL" title="MySQL" width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light"><img alt="MongoDB" title="MongoDB" width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark"></picture><br>
       <img alt="REST APIs" title="REST APIs" width="48" height="48" src="https://cdn.simpleicons.org/openapiinitiative/6BA539">
     </td>
     <td valign="top">
       <b>TOOLS</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img alt="VS Code" title="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img alt="VS Code" title="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"></picture>
     </td>
     <td valign="top">
       <b>AI AGENTS / AUTOMATION</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="./assets/grok-bot-light.svg"><img alt="Grok Bot" title="Grok Bot" width="48" src="./assets/grok-bot-dark.svg"></picture>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="./assets/grok-bot-light.svg"><img alt="Grok Bot" title="Grok Bot" width="48" src="./assets/grok-bot-dark.svg"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture>
     </td>
   </tr>
 </table>
