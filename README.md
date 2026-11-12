@@ -66,7 +66,8 @@
     </td>
     <td valign="top">
       <b>TOOLS</b><br><br>
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img alt="VS Code" title="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light"><img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img alt="VS Code" title="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"></picture><br>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light"><img alt="Linux" title="Linux" width="48" src="https://skillicons.dev/icons?i=linux&theme=dark"></picture>
     </td>
     <td valign="top">
       <b>AI AGENTS / AUTOMATION</b><br><br>
